@@ -482,8 +482,6 @@ h2 {
 }
 
 .menu-lang {
-    font-size: 16px;
-    line-height: 16px;
     display: flex;
 
     &__link {
@@ -503,11 +501,6 @@ h2 {
                 color: #fffbed;
             }
         }
-    }
-
-    @media (min-width:576px) {
-        font-size: 20px;
-        line-height: 23px;
     }
 
     @media (min-width:992px) {
